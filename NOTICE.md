@@ -1,0 +1,11 @@
+# Third-party data and references
+
+The 2005Scape plugin source is licensed under GPL-3.0-only; the full license is in `LICENSE` and bundled at `META-INF/LICENSE`. Upstream data/license attribution is retained separately. The Plugin Hub JAR contains only plugin classes and local resources; RuneLite and test/developer launchers are not redistributed in it.
+
+The bundled item and monster factual metadata is derived from the [OSRSBox database](https://github.com/osrsbox/osrsbox-db), maintained by OSRSBox contributors. The upstream database is published under GNU GPL version 3; a full copy is included at `third-party/OSRSBox-LICENSE.txt`. Original factual links and record dates are retained; no icons were imported.
+
+`data-provenance.json` records input SHA-256 hashes, snapshot information and coverage counts. `historical-overrides.json` documents corrections. The importer removes eligibility dates from unverified duplicate variants while retaining the original upstream date and a reason. Bundled generated JSON is supplied in full; `tools/import_historical_data.py` describes its transformation. Regeneration requires separately obtaining the upstream `items-complete.json` as `items-source.json` and `monsters-complete.json` as `.reference-cache/monsters.json`.
+
+Quest availability names use current OSRS labels and cited historical quest lists in `historical-quests.json`. The cutoff availability bound does not fabricate individual release dates. RuneLite supplies its own interface style assets at runtime; no extracted Jagex sprites are packaged.
+
+`modern-entities.json` derives factual IDs and symbols from RuneLite's public gameval definitions, scoped to explicitly named post-cutoff content. Source URLs, SHA-256 hashes and scope rules are retained in that file; `tools/generate_entity_guards.py` reproduces the transformation from separately obtained reference files. These guards provide partial coverage and do not assert exact release dates. RuneLite is published under the BSD 2-Clause license: https://github.com/runelite/runelite/blob/master/LICENSE . Spell, activity, area and interaction rules retain their factual evidence links in the bundled JSON. Area bounds are conservative approximations, not historical map restoration.

@@ -1,0 +1,332 @@
+[
+  {
+    "key": "dragon-head",
+    "name": "Dragon med helm",
+    "group": "Full dragon",
+    "alternatives": [
+      1149
+    ],
+    "notes": ""
+  },
+  {
+    "key": "dragon-body",
+    "name": "Dragon chainbody",
+    "group": "Full dragon",
+    "alternatives": [
+      3140
+    ],
+    "notes": ""
+  },
+  {
+    "key": "dragon-legs",
+    "name": "Dragon legs or skirt",
+    "group": "Full dragon",
+    "alternatives": [
+      4087,
+      4585
+    ],
+    "notes": ""
+  },
+  {
+    "key": "dragon-shield",
+    "name": "Dragon square shield",
+    "group": "Full dragon",
+    "alternatives": [
+      1187
+    ],
+    "notes": ""
+  },
+  {
+    "key": "melee-weapon",
+    "name": "Abyssal whip",
+    "group": "Melee targets",
+    "alternatives": [
+      4151
+    ],
+    "notes": "General slash weapon; strength training and special attacks need different weapons."
+  },
+  {
+    "key": "melee-special",
+    "name": "Dragon dagger",
+    "group": "Melee targets",
+    "alternatives": [
+      1215,
+      1231
+    ],
+    "notes": "Stronger p+ and p++ poisons were released after this cutoff."
+  },
+  {
+    "key": "melee-strength",
+    "name": "Dragon scimitar",
+    "group": "Melee targets",
+    "alternatives": [
+      4587
+    ],
+    "notes": ""
+  },
+  {
+    "key": "melee-helmet",
+    "name": "Berserker helm",
+    "group": "Melee targets",
+    "alternatives": [
+      3751
+    ],
+    "notes": ""
+  },
+  {
+    "key": "melee-boots",
+    "name": "Rune boots",
+    "group": "Melee targets",
+    "alternatives": [
+      4131
+    ],
+    "notes": ""
+  },
+  {
+    "key": "melee-amulet",
+    "name": "Amulet of glory",
+    "group": "Melee targets",
+    "alternatives": [
+      1704,
+      1706,
+      1708,
+      1710,
+      1712
+    ],
+    "notes": ""
+  },
+  {
+    "key": "melee-cape",
+    "name": "Cape of legends",
+    "group": "Melee targets",
+    "alternatives": [
+      1052
+    ],
+    "notes": ""
+  },
+  {
+    "key": "range-weapon",
+    "name": "Magic shortbow",
+    "group": "Ranged targets",
+    "alternatives": [
+      861
+    ],
+    "notes": ""
+  },
+  {
+    "key": "range-head",
+    "name": "Robin hood hat",
+    "group": "Ranged targets",
+    "alternatives": [
+      2581
+    ],
+    "notes": ""
+  },
+  {
+    "key": "range-body",
+    "name": "Black d'hide body",
+    "group": "Ranged targets",
+    "alternatives": [
+      2503
+    ],
+    "notes": ""
+  },
+  {
+    "key": "range-legs",
+    "name": "Black d'hide chaps",
+    "group": "Ranged targets",
+    "alternatives": [
+      2497
+    ],
+    "notes": ""
+  },
+  {
+    "key": "range-hands",
+    "name": "Black d'hide vambraces",
+    "group": "Ranged targets",
+    "alternatives": [
+      2491
+    ],
+    "notes": ""
+  },
+  {
+    "key": "range-boots",
+    "name": "Ranger boots",
+    "group": "Ranged targets",
+    "alternatives": [
+      2577
+    ],
+    "notes": ""
+  },
+  {
+    "key": "range-ammo",
+    "name": "Rune arrows",
+    "group": "Ranged targets",
+    "alternatives": [
+      892
+    ],
+    "notes": ""
+  },
+  {
+    "key": "magic-weapon",
+    "name": "Ancient staff",
+    "group": "Magic targets",
+    "alternatives": [
+      4675
+    ],
+    "notes": ""
+  },
+  {
+    "key": "magic-neck",
+    "name": "Amulet of magic",
+    "group": "Magic targets",
+    "alternatives": [
+      1727
+    ],
+    "notes": ""
+  },
+  {
+    "key": "magic-head",
+    "name": "Ahrim's hood",
+    "group": "Magic targets",
+    "alternatives": [
+      4708
+    ],
+    "notes": ""
+  },
+  {
+    "key": "magic-body",
+    "name": "Ahrim's robetop",
+    "group": "Magic targets",
+    "alternatives": [
+      4712
+    ],
+    "notes": ""
+  },
+  {
+    "key": "magic-legs",
+    "name": "Ahrim's robeskirt",
+    "group": "Magic targets",
+    "alternatives": [
+      4714
+    ],
+    "notes": ""
+  },
+  {
+    "key": "magic-boots",
+    "name": "Wizard boots",
+    "group": "Magic targets",
+    "alternatives": [
+      2579
+    ],
+    "notes": ""
+  },
+  {
+    "key": "barrows-dharok",
+    "name": "Dharok's helm",
+    "group": "Barrows sets",
+    "alternatives": [
+      4716
+    ],
+    "notes": ""
+  },
+  {
+    "key": "dharok-body",
+    "name": "Dharok's platebody",
+    "group": "Barrows sets",
+    "alternatives": [
+      4720
+    ],
+    "notes": ""
+  },
+  {
+    "key": "dharok-legs",
+    "name": "Dharok's platelegs",
+    "group": "Barrows sets",
+    "alternatives": [
+      4722
+    ],
+    "notes": ""
+  },
+  {
+    "key": "dharok-weapon",
+    "name": "Dharok's greataxe",
+    "group": "Barrows sets",
+    "alternatives": [
+      4718
+    ],
+    "notes": ""
+  },
+  {
+    "key": "guthan-head",
+    "name": "Guthan's helm",
+    "group": "Barrows sets",
+    "alternatives": [
+      4724
+    ],
+    "notes": ""
+  },
+  {
+    "key": "guthan-body",
+    "name": "Guthan's platebody",
+    "group": "Barrows sets",
+    "alternatives": [
+      4728
+    ],
+    "notes": ""
+  },
+  {
+    "key": "guthan-legs",
+    "name": "Guthan's chainskirt",
+    "group": "Barrows sets",
+    "alternatives": [
+      4730
+    ],
+    "notes": ""
+  },
+  {
+    "key": "guthan-weapon",
+    "name": "Guthan's warspear",
+    "group": "Barrows sets",
+    "alternatives": [
+      4726
+    ],
+    "notes": ""
+  },
+  {
+    "key": "karil-body",
+    "name": "Karil's leathertop",
+    "group": "Barrows sets",
+    "alternatives": [
+      4736
+    ],
+    "notes": ""
+  },
+  {
+    "key": "karil-legs",
+    "name": "Karil's leatherskirt",
+    "group": "Barrows sets",
+    "alternatives": [
+      4738
+    ],
+    "notes": ""
+  },
+  {
+    "key": "karil-head",
+    "name": "Karil's coif",
+    "group": "Barrows sets",
+    "alternatives": [
+      4732
+    ],
+    "notes": ""
+  },
+  {
+    "key": "karil-weapon",
+    "name": "Karil's crossbow",
+    "group": "Barrows sets",
+    "alternatives": [
+      4734
+    ],
+    "notes": ""
+  }
+]

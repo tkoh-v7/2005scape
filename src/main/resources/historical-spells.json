@@ -1,0 +1,22 @@
+{
+  "availableBy": "2005-06-22",
+  "sources": ["https://classic.runescape.wiki/w/Magic", "https://oldschool.runescape.wiki/w/Standard_spellbook", "https://oldschool.runescape.wiki/w/Ancient_Magicks", "https://oldschool.runescape.wiki/w/Update:Wilderness_changes"],
+  "allowed": [
+    "Wind Strike", "Air Strike", "Water Strike", "Earth Strike", "Fire Strike",
+    "Wind Bolt", "Air Bolt", "Water Bolt", "Earth Bolt", "Fire Bolt",
+    "Wind Blast", "Air Blast", "Water Blast", "Earth Blast", "Fire Blast",
+    "Wind Wave", "Air Wave", "Water Wave", "Earth Wave", "Fire Wave",
+    "Confuse", "Weaken", "Curse", "Bind", "Snare", "Vulnerability", "Enfeeble", "Entangle", "Stun", "Tele Block", "Teleblock",
+    "Crumble Undead", "Iban Blast", "Iban's Blast", "Magic Dart", "Saradomin Strike", "Claws of Guthix", "Flames of Zamorak", "Charge",
+    "Varrock Teleport", "Lumbridge Teleport", "Falador Teleport", "Camelot Teleport", "Ardougne Teleport", "Watchtower Teleport", "Trollheim Teleport",
+    "Teleother Lumbridge", "Teleother Falador", "Teleother Camelot",
+    "Bones to Bananas", "Low Level Alchemy", "High Level Alchemy", "Telekinetic Grab", "Superheat Item",
+    "Lvl-1 Enchant", "Lvl-2 Enchant", "Lvl-3 Enchant", "Lvl-4 Enchant", "Lvl-5 Enchant",
+    "Enchant Level 1 Jewellery", "Enchant Level 2 Jewellery", "Enchant Level 3 Jewellery", "Enchant Level 4 Jewellery", "Enchant Level 5 Jewellery",
+    "Charge Water Orb", "Charge Earth Orb", "Charge Fire Orb", "Charge Air Orb",
+    "Smoke Rush", "Shadow Rush", "Blood Rush", "Ice Rush", "Smoke Burst", "Shadow Burst", "Blood Burst", "Ice Burst",
+    "Smoke Blitz", "Shadow Blitz", "Blood Blitz", "Ice Blitz", "Smoke Barrage", "Shadow Barrage", "Blood Barrage", "Ice Barrage",
+    "Paddewwa Teleport", "Senntisten Teleport", "Kharyrll Teleport", "Lassar Teleport", "Dareeyak Teleport", "Carrallanger Teleport", "Carrallangar Teleport", "Annakarl Teleport", "Ghorrock Teleport"
+  ],
+  "notes": "Whitelist of period spells, including Ancient Magicks. Names are current client labels with spelling aliases. Unknown spell actions are restricted; this does not restore period damage or modern spell mechanics."
+}

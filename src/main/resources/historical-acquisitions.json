@@ -1,0 +1,509 @@
+{
+  "shops": [
+    {
+      "name": "Jukat's Dragon Sword Shop",
+      "aliases": [
+        "Jukat"
+      ],
+      "source": "https://runescape.wiki/w/Jukat%27s_Dragon_Sword_Shop",
+      "availableBy": "2002-02-27"
+    },
+    {
+      "name": "Daga's Scimitar Smithy",
+      "source": "https://oldschool.runescape.wiki/w/Daga%27s_Scimitar_Smithy",
+      "availableBy": "2005-06-22"
+    },
+    {
+      "name": "Skulgrimen's Battle Gear",
+      "source": "https://oldschool.runescape.wiki/w/Skulgrimen%27s_Battle_Gear",
+      "availableBy": "2005-06-22"
+    },
+    {
+      "name": "Legends Guild Shop of Useful Items",
+      "aliases": [
+        "Legends' Guild Shop of Useful Items"
+      ],
+      "source": "https://classic.runescape.wiki/w/Legends%27_Guild_Shop",
+      "availableBy": "2005-06-22"
+    },
+    {
+      "name": "Zaff's Superior Staves!",
+      "aliases": [
+        "Zaff's Superior Staffs!"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Zaff%27s_Superior_Staves!",
+      "availableBy": "2005-06-22"
+    },
+    {
+      "name": "Lowe's Archery Emporium",
+      "source": "https://oldschool.runescape.wiki/w/Lowe%27s_Archery_Emporium",
+      "availableBy": "2005-06-22"
+    },
+    {
+      "name": "Horvik's Armour Shop",
+      "source": "https://oldschool.runescape.wiki/w/Horvik%27s_Armour_Shop",
+      "availableBy": "2005-06-22"
+    },
+    {
+      "name": "Scavvo's Rune Store",
+      "source": "https://oldschool.runescape.wiki/w/Scavvo%27s_Rune_Store",
+      "availableBy": "2005-06-22"
+    },
+    {
+      "name": "Oziach's Armour",
+      "source": "https://oldschool.runescape.wiki/w/Oziach%27s_Armour",
+      "availableBy": "2005-06-22"
+    },
+    {
+      "name": "Seddu's Adventurer's Store",
+      "source": "https://oldschool.runescape.wiki/w/Seddu%27s_Adventurer%27s_Store",
+      "availableBy": "2005-06-22"
+    },
+    {
+      "name": "Happy Heroes' H'emporium",
+      "source": "https://oldschool.runescape.wiki/w/Happy_Heroes%27_H%27emporium",
+      "availableBy": "2005-06-22"
+    },
+    {
+      "name": "Cassie's Shield Shop",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Flynn's Mace Market",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Herquin's Gems",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Wayne's Chains! - Chainmail Specialist",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Betty's Magic Emporium",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Brian's Battleaxe Bazaar",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Gerrant's Fishy Business",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Grum's Gold Exchange",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Wydin's Food Store",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Rommik's Crafty Supplies",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Gaius' Two Handed Shop",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Jatix's Herblore Shop",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Valaine's Shop of Champions",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Magic Guild Store - Runes and Staves",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Magic Guild Store - Mystic Robes",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Zenesha's Plate Mail Body Shop",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Harry's Fishing Shop",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Hickton's Archery Emporium",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "King Lathas's Weaponry",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Gulluck and Sons",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Heckel Funch's Fine Groceries",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Hudo's Grand Tree Groceries",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Rometti's Fine Fashions",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Frenita's Cookery Shop",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Davon's Amulet Store",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Fernahei's Fishing Hut",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Dommik's Crafting Store",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Louie's Armoured Legs Bazaar",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Ranael's Super Skirt Store",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Zeke's Superior Scimitars",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Nurmof's Pickaxe Shop",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Drogo's Mining Emporium",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Nulodion's Multicannon Parts",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Peksa's Helmet Shop",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Bob's Brilliant Axes",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Aubury's Rune Shop",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Varrock Swordshop",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Thessalia's Fine Clothes",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Fancy Clothes Store",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Shantay Pass Shop",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Mage Arena Rune Store",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Mage Arena Staves",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Fishing Guild Shop",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Arhein's Store",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Aemad's Adventuring Supplies",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Jiminua's Jungle Store",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Obli's General Store",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Bolkoy's Village Shop",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "West Ardougne General Store",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Noterazzo's Store",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Zanaris General Store",
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/General_Store"
+    },
+    {
+      "name": "Lumbridge General Store",
+      "aliases": [
+        "General Store"
+      ],
+      "regions": [
+        12850
+      ],
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/Lumbridge_General_Store"
+    },
+    {
+      "name": "Varrock General Store",
+      "aliases": [
+        "General Store"
+      ],
+      "regions": [
+        12853
+      ],
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/Varrock_General_Store"
+    },
+    {
+      "name": "Falador General Store",
+      "aliases": [
+        "General Store"
+      ],
+      "regions": [
+        11828
+      ],
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/Falador_General_Store"
+    },
+    {
+      "name": "Rimmington General Store",
+      "aliases": [
+        "General Store"
+      ],
+      "regions": [
+        11826
+      ],
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/Rimmington_General_Store"
+    },
+    {
+      "name": "Al Kharid General Store",
+      "aliases": [
+        "General Store"
+      ],
+      "regions": [
+        13105
+      ],
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/Al_Kharid_General_Store"
+    },
+    {
+      "name": "Edgeville General Store",
+      "aliases": [
+        "General Store"
+      ],
+      "regions": [
+        12342
+      ],
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/Edgeville_General_Store"
+    },
+    {
+      "name": "Karamja General Store",
+      "aliases": [
+        "General Store"
+      ],
+      "regions": [
+        11569
+      ],
+      "availableBy": "2005-06-22",
+      "source": "https://classic.runescape.wiki/w/Karamja_General_Store"
+    }
+  ],
+  "questRewards": [
+    {
+      "quest": "Roving Elves",
+      "items": [
+        4212,
+        4214,
+        4224,
+        23983,
+        23991,
+        24123,
+        24127
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Roving_Elves"
+    },
+    {
+      "quest": "Family Crest",
+      "items": [
+        778
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Family_Crest"
+    },
+    {
+      "quest": "Haunted Mine",
+      "items": [
+        4081
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Haunted_Mine"
+    },
+    {
+      "quest": "Waterfall Quest",
+      "items": [
+        299
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Waterfall_Quest"
+    },
+    {
+      "quest": "Horror from the Deep",
+      "items": [
+        3839,
+        3841,
+        3843
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Horror_from_the_Deep"
+    }
+  ],
+  "purchases": [
+    {
+      "npc": "Eblis",
+      "item": 4675,
+      "coins": 80000,
+      "source": "https://oldschool.runescape.wiki/w/Ancient_staff"
+    },
+    {
+      "npc": "Ilfeen",
+      "item": 23983,
+      "coins": 180000,
+      "source": "https://oldschool.runescape.wiki/w/Crystal_bow",
+      "blockedAfterQuestStarted": "Song of the Elves"
+    },
+    {
+      "npc": "Ilfeen",
+      "item": 24123,
+      "coins": 180000,
+      "source": "https://oldschool.runescape.wiki/w/Crystal_bow",
+      "blockedAfterQuestStarted": "Song of the Elves"
+    },
+    {
+      "npc": "Ilfeen",
+      "item": 23991,
+      "coins": 150000,
+      "source": "https://oldschool.runescape.wiki/w/Crystal_equipment",
+      "blockedAfterQuestStarted": "Song of the Elves"
+    },
+    {
+      "npc": "Ilfeen",
+      "item": 24127,
+      "coins": 150000,
+      "source": "https://oldschool.runescape.wiki/w/Crystal_equipment",
+      "blockedAfterQuestStarted": "Song of the Elves"
+    },
+    {
+      "npc": "Islwyn",
+      "item": 23983,
+      "coins": 900000,
+      "source": "https://oldschool.runescape.wiki/w/Roving_Elves",
+      "blockedAfterQuestStarted": "Song of the Elves"
+    },
+    {
+      "npc": "Islwyn",
+      "item": 24123,
+      "coins": 900000,
+      "source": "https://oldschool.runescape.wiki/w/Roving_Elves",
+      "blockedAfterQuestStarted": "Song of the Elves"
+    },
+    {
+      "npc": "Islwyn",
+      "item": 23991,
+      "coins": 750000,
+      "source": "https://oldschool.runescape.wiki/w/Roving_Elves",
+      "blockedAfterQuestStarted": "Song of the Elves"
+    },
+    {
+      "npc": "Islwyn",
+      "item": 24127,
+      "coins": 750000,
+      "source": "https://oldschool.runescape.wiki/w/Roving_Elves",
+      "blockedAfterQuestStarted": "Song of the Elves"
+    }
+  ]
+}

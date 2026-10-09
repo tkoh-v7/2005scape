@@ -1,0 +1,233 @@
+[
+  {
+    "name": "Wintertodt",
+    "interfaces": [
+      396
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Wintertodt"
+  },
+  {
+    "name": "Tempoross",
+    "interfaces": [
+      437
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Tempoross"
+  },
+  {
+    "name": "Pest Control",
+    "interfaces": [
+      407,
+      408
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pest_Control"
+  },
+  {
+    "name": "God Wars Dungeon",
+    "interfaces": [
+      406
+    ],
+    "source": "https://oldschool.runescape.wiki/w/God_Wars_Dungeon"
+  },
+  {
+    "name": "Nightmare Zone",
+    "interfaces": [
+      202,
+      207
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Nightmare_Zone"
+  },
+  {
+    "name": "Soul Wars",
+    "interfaces": [
+      375,
+      434
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Soul_Wars"
+  },
+  {
+    "name": "Theatre of Blood",
+    "interfaces": [
+      28
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Theatre_of_Blood"
+  },
+  {
+    "name": "Tombs of Amascut",
+    "interfaces": [
+      481
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Tombs_of_Amascut"
+  },
+  {
+    "name": "Chambers of Xeric",
+    "interfaces": [
+      513
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Chambers_of_Xeric"
+  },
+  {
+    "name": "The Gauntlet",
+    "interfaces": [
+      637
+    ],
+    "source": "https://oldschool.runescape.wiki/w/The_Gauntlet"
+  },
+  {
+    "name": "Mage Training Arena",
+    "interfaces": [
+      194,
+      195,
+      196,
+      197,
+      198,
+      553
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Update:Behind_the_Scenes_-_January_(2006)"
+  },
+  {
+    "name": "Barbarian Assault",
+    "interfaces": [
+      485,
+      486,
+      487,
+      488,
+      494
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Update:Barbarian_Assault"
+  },
+  {
+    "name": "Guardians of the Rift",
+    "interfaces": [
+      745,
+      746
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guardians_of_the_Rift"
+  },
+  {
+    "name": "Giants' Foundry",
+    "interfaces": [
+      718,
+      753,
+      754
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Giants%27_Foundry"
+  },
+  {
+    "name": "Hallowed Sepulchre",
+    "interfaces": [
+      632,
+      666,
+      667,
+      668
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Hallowed_Sepulchre"
+  },
+  {
+    "name": "Volcanic Mine",
+    "interfaces": [
+      611,
+      612
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Volcanic_Mine"
+  },
+  {
+    "name": "Blast Furnace",
+    "interfaces": [
+      30,
+      474
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Blast_Furnace"
+  },
+  {
+    "name": "Tithe Farm",
+    "interfaces": [
+      241
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Tithe_Farm"
+  },
+  {
+    "name": "Hosidius Mess",
+    "interfaces": [
+      235,
+      242
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Mess"
+  },
+  {
+    "name": "Blast Mine",
+    "interfaces": [
+      598
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Blast_mine"
+  },
+  {
+    "name": "Construction",
+    "interfaces": [
+      71,
+      370,
+      397,
+      458,
+      210,
+      211,
+      212,
+      590
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Construction"
+  },
+  {
+    "name": "Fairy rings",
+    "interfaces": [
+      398,
+      381
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Fairy_rings"
+  },
+  {
+    "name": "Fortis Colosseum",
+    "interfaces": [
+      626,
+      246,
+      864,
+      865,
+      866,
+      867
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Fortis_Colosseum"
+  },
+  {
+    "name": "Farming",
+    "interfaces": [
+      125,
+      126,
+      179
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Farming"
+  },
+  {
+    "name": "Forestry",
+    "interfaces": [
+      822,
+      823
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Forestry"
+  },
+  {
+    "name": "Sailing",
+    "interfaces": [
+      345,
+      72,
+      931,
+      932,
+      933,
+      934,
+      935,
+      936,
+      937,
+      938,
+      939,
+      943,
+      944
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Sailing"
+  }
+]

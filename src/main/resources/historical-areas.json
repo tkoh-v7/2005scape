@@ -1,0 +1,7 @@
+[
+  {"name":"Zeah and Varlamore","minX":1024,"maxX":2047,"minY":2560,"maxY":4095,"source":"https://oldschool.runescape.wiki/w/Zeah"},
+  {"name":"Prifddinas","minX":3136,"maxX":3327,"minY":5952,"maxY":6271,"source":"https://oldschool.runescape.wiki/w/Prifddinas"},
+  {"name":"Lunar Isle","minX":2048,"maxX":2239,"minY":3840,"maxY":4031,"source":"https://oldschool.runescape.wiki/w/Lunar_Isle"},
+  {"name":"Fossil Island","minX":3584,"maxX":3839,"minY":3712,"maxY":4095,"source":"https://oldschool.runescape.wiki/w/Fossil_Island"},
+  {"name":"Darkmeyer and Meiyerditch","minX":3584,"maxX":3711,"minY":3200,"maxY":3455,"source":"https://oldschool.runescape.wiki/w/Meiyerditch"}
+]

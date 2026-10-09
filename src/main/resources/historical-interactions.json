@@ -1,0 +1,233 @@
+{
+  "cutoff": "2005-06-22",
+  "blocked": [
+    {
+      "kind": "NPC",
+      "names": [
+        "Sir Tiffy Cashien"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Recruitment_Drive"
+    },
+    {
+      "kind": "NPC",
+      "names": [
+        "Ava"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Animal_Magnetism"
+    },
+    {
+      "kind": "NPC",
+      "names": [
+        "Jorral"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Making_History"
+    },
+    {
+      "kind": "NPC",
+      "names": [
+        "Rat Burgiss",
+        "Surok Magis"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/What_Lies_Below"
+    },
+    {
+      "kind": "NPC",
+      "names": [
+        "Odd Old Man"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Rag_and_Bone_Man_I"
+    },
+    {
+      "kind": "NPC",
+      "names": [
+        "Alec Kincade"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Dragon_Slayer_II"
+    },
+    {
+      "kind": "NPC",
+      "names": [
+        "Veos"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Veos"
+    },
+    {
+      "kind": "NPC",
+      "names": [
+        "Hagus",
+        "Abigale"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Misthalin_Mystery"
+    },
+    {
+      "kind": "NPC",
+      "names": [
+        "Captain Bentley"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Lunar_Diplomacy"
+    },
+    {
+      "kind": "NPC",
+      "names": [
+        "Ignisia"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Wintertodt"
+    },
+    {
+      "kind": "NPC",
+      "names": [
+        "Captain Dudi",
+        "Ferryman Sathwood"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Tempoross"
+    },
+    {
+      "kind": "NPC",
+      "names": [
+        "Great Guardian",
+        "Apprentice Felix",
+        "Apprentice Tamara"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Guardians_of_the_Rift"
+    },
+    {
+      "kind": "NPC",
+      "names": [
+        "Kovac"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Giants%27_Foundry"
+    },
+    {
+      "kind": "NPC",
+      "names": [
+        "Friendly Forester"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Forestry"
+    },
+    {
+      "kind": "OBJECT",
+      "names": [
+        "Fairy ring"
+      ],
+      "options": [
+        "Configure",
+        "Use",
+        "Last-destination",
+        "Zanaris"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Fairy_rings"
+    },
+    {
+      "kind": "OBJECT",
+      "names": [
+        "Herb patch",
+        "Allotment",
+        "Allotment patch",
+        "Fruit tree patch",
+        "Tree patch",
+        "Hop patch",
+        "Hops patch",
+        "Bush patch",
+        "Flower patch",
+        "Cactus patch",
+        "Mushroom patch"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Farming"
+    },
+    {
+      "kind": "OBJECT",
+      "names": [
+        "Shooting star",
+        "Crashed star"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Shooting_Stars"
+    },
+    {
+      "kind": "OBJECT",
+      "names": [
+        "Mahogany tree",
+        "Teak tree"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Update:Jungle_Tribal_Area"
+    },
+    {
+      "kind": "OBJECT",
+      "names": [
+        "Guardians of the Rift",
+        "Rift entrance",
+        "Reward guardian"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Guardians_of_the_Rift"
+    },
+    {
+      "kind": "OBJECT",
+      "names": [
+        "Colossal blade",
+        "Giant crucible"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Giants%27_Foundry"
+    },
+    {
+      "kind": "OPTION",
+      "names": [
+        "Charter"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Charter_ship"
+    },
+    {
+      "kind": "OBJECT",
+      "names": [
+        "Birdhouse",
+        "Bird house"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Bird_house_trapping"
+    },
+    {
+      "kind": "OBJECT",
+      "names": [
+        "Redwood tree"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Redwood"
+    },
+    {
+      "kind": "OBJECT",
+      "names": [
+        "Celastrus tree"
+      ],
+      "source": "https://oldschool.runescape.wiki/w/Celastrus_tree"
+    }
+  ],
+  "modernDestinations": [
+    "Ferox Enclave",
+    "Fortis Colosseum",
+    "Civitas illa Fortis",
+    "Great Kourend",
+    "Kourend Castle",
+    "Hosidius",
+    "Lovakengj",
+    "Arceuus",
+    "Port Piscarilius",
+    "Shayzien",
+    "Varlamore",
+    "Prifddinas",
+    "Lletya",
+    "Neitiznot",
+    "Jatizso",
+    "Lunar Isle",
+    "Fossil Island",
+    "Aldarin",
+    "Gwenith",
+    "Weiss",
+    "Hunter Guild",
+    "Woodcutting Guild",
+    "Ruins of Camdozaal",
+    "Ourania",
+    "Giants' Foundry",
+    "Guardians of the Rift"
+  ],
+  "destinationSources": [
+    "https://oldschool.runescape.wiki/w/Transportation",
+    "https://oldschool.runescape.wiki/w/Minigame_teleport"
+  ],
+  "notes": "Only named modern interactions are blocked. Shared historical NPCs remain available; modern quest dialogue choices are guarded separately. Fairy-ring Enter remains available for the historical Lost City entrance."
+}

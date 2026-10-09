@@ -1,0 +1,63 @@
+plugins { id 'java' }
+
+group = 'com.tkoh'
+version = '0.5.0'
+
+repositories {
+    maven { url = 'https://repo.runelite.net'; content { includeGroupByRegex('net\\.runelite.*') } }
+    mavenCentral()
+}
+
+def runeLiteVersion = providers.gradleProperty('runeliteVersion').getOrElse('latest.release')
+dependencies {
+    compileOnly "net.runelite:client:${runeLiteVersion}"
+    testRuntimeOnly "net.runelite:jshell:${runeLiteVersion}"
+    testImplementation "net.runelite:client:${runeLiteVersion}"
+    testImplementation 'junit:junit:4.13.2'
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+    options.release.set(11)
+}
+
+// Developer testing only; the entry point is excluded from the plugin JAR.
+tasks.register('run', JavaExec) {
+    classpath = sourceSets.test.runtimeClasspath
+    mainClass = 'com.tkoh.scape2005.DevelopmentLauncher'
+    jvmArgs '-ea'
+    args '--developer-mode', '--debug'
+}
+
+// This jar contains the plugin, not RuneLite or an alternate game client.
+jar {
+    archiveBaseName = '2005scape'
+}
+// Produce the exact resolved library list on GitHub before any local setup.
+tasks.register('dependencyInventory') {
+    outputs.file(layout.buildDirectory.file('reports/dependency-sources.json'))
+    doLast {
+        def resolved = [configurations.compileClasspath, configurations.testRuntimeClasspath]
+            .collectMany { it.resolvedConfiguration.resolvedArtifacts.toList() }
+            .unique { "${it.moduleVersion.id}:${it.file.name}" }
+        def artifacts = resolved.collect { artifact ->
+            def id = artifact.moduleVersion.id
+            def digest = java.security.MessageDigest.getInstance('SHA-256')
+            artifact.file.withInputStream { input ->
+                byte[] buffer = new byte[8192]
+                int size
+                while ((size = input.read(buffer)) != -1) { digest.update(buffer, 0, size) }
+            }
+            def relative = "${id.group.replace('.', '/')}/${id.name}/${id.version}/${artifact.file.name}"
+            def repository = id.group.startsWith('net.runelite') ? 'https://repo.runelite.net' : 'https://repo.maven.apache.org/maven2'
+            [module: "${id.group}:${id.name}:${id.version}", file: artifact.file.name,
+             sha256: digest.digest().encodeHex().toString(), declaredRepository: repository,
+             artifactUrl: "${repository}/${relative}"]
+        }.sort { a, b -> a.module <=> b.module }
+        def report = layout.buildDirectory.file('reports/dependency-sources.json').get().asFile
+        report.parentFile.mkdirs()
+        report.text = groovy.json.JsonOutput.prettyPrint(groovy.json.JsonOutput.toJson([
+            explanation: 'Build/test libraries only; none are bundled into the plugin JAR. RuneLite supplies runtime dependencies. Repository routing URLs are recorded, not redirects.',
+            libraries: artifacts])) + '\n'
+    }
+}

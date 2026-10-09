@@ -1,0 +1,17 @@
+{
+  "cutoff": "2005-06-22",
+  "upstream": "https://github.com/osrsbox/osrsbox-db",
+  "upstreamSnapshot": "2021-08-05 (items; per-record dates retained)",
+  "importedOn": "2026-10-09",
+  "itemRecords": 24735,
+  "npcRecords": 3000,
+  "itemsDated": 22744,
+  "itemsEligible": 4377,
+  "acceptedReplacementIds": 7,
+  "missingItemDates": 1991,
+  "quarantinedDuplicateVariants": 1174,
+  "sha256": {
+    "items-source.json": "6dff51177a74dfe7fc37dbd78fa3243975c40cc69d794d1830ac0f95887e766e",
+    "monsters-source.json": "ff046da6004d8dada548f4cad7ef94e354f15fb7e94f3fbf259a5fbbadac3e62"
+  }
+}

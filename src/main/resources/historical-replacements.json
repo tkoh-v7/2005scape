@@ -1,0 +1,44 @@
+[
+  {
+    "id": 23983,
+    "replacementOf": 4214,
+    "replacementEvidence": "https://oldschool.runescape.wiki/w/Crystal_bow",
+    "replacementReason": "Modern active crystal bow accepted as a replacement for the historical crystal bow; modern charging mechanics cannot be reverted. Historical acquisition routes only."
+  },
+  {
+    "id": 23985,
+    "replacementOf": 4214,
+    "replacementEvidence": "https://oldschool.runescape.wiki/w/Crystal_bow",
+    "replacementReason": "Inactive form of the accepted replacement crystal bow; historical recharge routes only."
+  },
+  {
+    "id": 24123,
+    "replacementOf": 4214,
+    "replacementEvidence": "https://oldschool.runescape.wiki/w/Crystal_bow",
+    "replacementReason": "New/quest reward form of the accepted replacement crystal bow; historical acquisition routes only."
+  },
+  {
+    "id": 23991,
+    "replacementOf": 4224,
+    "replacementEvidence": "https://oldschool.runescape.wiki/w/Crystal_shield",
+    "replacementReason": "Modern active crystal shield replaces the historical crystal shield. Historical quest, purchase and recharge routes only; crystal-shard crafting remains restricted."
+  },
+  {
+    "id": 23993,
+    "replacementOf": 4224,
+    "replacementEvidence": "https://oldschool.runescape.wiki/w/Crystal_shield",
+    "replacementReason": "Inactive form of the accepted replacement crystal shield. Historical recharge routes only."
+  },
+  {
+    "id": 24127,
+    "replacementOf": 4224,
+    "replacementEvidence": "https://oldschool.runescape.wiki/w/RuneScape:Cache/2019/181.2",
+    "replacementReason": "New/quest reward form of the replacement crystal shield. Historical Roving Elves reward route only."
+  },
+  {
+    "id": 7936,
+    "replacementOf": 1436,
+    "replacementEvidence": "https://runescape.wiki/w/Pure_essence%27",
+    "replacementReason": "Compatibility exception: historical members rune essence was converted to pure essence on 20 April 2006. Accepted for original rune-crafting routes; modern essences, altars and reward sources remain restricted."
+  }
+]

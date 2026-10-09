@@ -1,0 +1,21 @@
+{
+  "availableBy": "2005-06-22",
+  "sources": ["https://runescape.wiki/w/List_of_quests_by_release", "https://oldschool.runescape.wiki/w/Quests/List", "https://runescape.fandom.com/wiki/List_of_quest_release_dates"],
+  "allowed": [
+    "Cook's Assistant", "Demon Slayer", "The Restless Ghost", "Romeo & Juliet", "Sheep Shearer", "Shield of Arrav",
+    "Ernest the Chicken", "Vampyre Slayer", "Imp Catcher", "Prince Ali Rescue", "Doric's Quest", "Black Knights' Fortress",
+    "Witch's Potion", "The Knight's Sword", "Goblin Diplomacy", "Pirate's Treasure", "Dragon Slayer I", "Druidic Ritual",
+    "Lost City", "Witch's House", "Merlin's Crystal", "Heroes' Quest", "Scorpion Catcher", "Family Crest", "Tribal Totem",
+    "Fishing Contest", "Monk's Friend", "Temple of Ikov", "Clock Tower", "Holy Grail", "Tree Gnome Village", "Fight Arena",
+    "Hazeel Cult", "Sheep Herder", "Plague City", "Sea Slug", "Waterfall Quest", "Biohazard", "Jungle Potion", "The Grand Tree",
+    "Shilo Village", "Underground Pass", "Observatory Quest", "The Tourist Trap", "Watchtower", "Dwarf Cannon", "Murder Mystery",
+    "The Dig Site", "Gertrude's Cat", "Legends' Quest", "Rune Mysteries", "Big Chompy Bird Hunting", "Elemental Workshop I",
+    "Priest in Peril", "Nature Spirit", "Death Plateau", "Troll Stronghold", "Tai Bwo Wannai Trio", "Regicide", "Eadgar's Ruse",
+    "Shades of Mort'ton", "The Fremennik Trials", "Horror from the Deep", "Throne of Miscellania", "Monkey Madness I",
+    "Haunted Mine", "Troll Romance", "In Search of the Myreque", "Creature of Fenkenstrain", "Roving Elves", "Ghosts Ahoy",
+    "One Small Favour", "Mountain Daughter", "Between a Rock...", "The Feud", "The Golem", "Desert Treasure I",
+    "Icthlarin's Little Helper", "Tears of Guthix", "Zogre Flesh Eaters", "The Lost Tribe", "The Giant Dwarf"
+  ],
+  "miniquestsAllowed": ["Alfred Grimhand's Barcrawl", "Mage Arena I", "Enter the Abyss", "Curse of the Empty Lord"],
+  "notes": "Names use current OSRS labels. availableBy is an upper availability bound, not each quest's exact release date. These are the 82 original quests; selected miniquests are listed separately. Quest UI filtering cannot prevent every server dialogue from starting a quest."
+}
